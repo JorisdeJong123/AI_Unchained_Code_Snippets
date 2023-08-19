@@ -1,0 +1,4 @@
+langchain
+youtube-transcript-api
+openai
+tiktoken
