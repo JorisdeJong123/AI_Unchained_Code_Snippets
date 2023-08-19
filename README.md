@@ -1,2 +1,2 @@
-# AI_Unchained_Code_Snippets
+# AI Unchained Code Snippets
 Code snippets from the AI Unchained Newsletter
