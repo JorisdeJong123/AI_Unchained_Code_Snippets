@@ -1,0 +1,5 @@
+langchain
+openai
+tabulate
+tiktoken
+python-dotenv
